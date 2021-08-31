@@ -1,14 +1,14 @@
 ## Student Name (or name you would preferred to be called)
-
+Ethan Kaplan
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Course Intro to Data SCience
 
-- Course 2
+- Course 2 INtro to Python
 
-- Course 3
+- Course 3 Precalc
 
 - Course 4
 
@@ -16,11 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Thing 1 Sports
 
-- Thing 2
+- Thing 2 MOvies
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Thing 3 as shown in this website <://www.floridapoly.eduhttps>
 
 ***
 
